@@ -1,0 +1,80 @@
+
+{
+
+  "random_location":
+  [
+    {
+      "address": "Jl. Padma Gang 1B No.23",
+      "id": "rumah",
+      "lat": -8.625524,
+      "lng": 115.240276,
+      "name": "23 JumpStreet",
+      "district": "Denpasar Timur",
+      "city": "Denpasar"
+    },
+    {
+      "address": "Jl. Dr. Goris No. 7",
+      "id": "student_center",
+      "lat": -8.6714568,
+      "lng": 115.2201663,
+      "name": "Student Center Universitas Udayana",
+      "district": "Denpasar Selatan",
+      "city": "Denpasar"
+    },
+    {
+      "address": "Jl. Sutomo",
+      "id": "Puri",
+      "lat": -8.6520579,
+      "lng": 115.2113428,
+      "name": "Puri Agung Jro Kuta",
+      "district": "Denpasar Timur",
+      "city": "Denpasar"
+    },
+    {
+      "address": "Kampus Bukit, Jl. Raya Kampus Unud Jimbaran",
+      "id": "udayana",
+      "lat": -8.7982674,
+      "lng": 115.1702034,
+      "name": "Rektorat Universitas Udayana",
+      "district": "Kuta Selatan",
+      "city": "Badung"
+    },
+    {
+      "address": "Jl. Surapati, Dangin Puri",
+      "id": "Pura",
+      "lat": -8.6565542,
+      "lng": 115.2186143,
+      "name": "Pura Agung Jagatnatha",
+      "district": "Denpasar Timur",
+      "city": "Denpasar"
+    },
+    {
+      "address": "Jl. Raya Kampus Unud No.88, Jimbaran",
+      "id": "elektro",
+      "lat": -8.79637,
+      "lng": 115.1750472,
+      "name": "Teknik Elektro Universitas Udayana",
+      "district": "Kuta Selatan",
+      "city": "Badung"
+    },
+    {
+      "address": "Jl. Melati, Dangin Puri Kangin",
+      "id": "GOR",
+      "lat": -8.6532427,
+      "lng": 115.2223393,
+      "name": "GOR Ngurah Rai",
+      "district": "Denpasar",
+      "city": "Denpasar"
+    },
+
+    {
+      "address": "Jl. Pecatu ",
+      "id": "Pura",
+      "lat":-8.7435804,
+      "lng": 115.1056702,
+      "name": "Pura Uluwatu",
+      "district": "Kuta Selatan",
+      "city": "Badung"
+    }
+  ]
+}
